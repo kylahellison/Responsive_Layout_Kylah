@@ -242,8 +242,8 @@ a:hover {
 	}
 
 	.wrapper {
-		max-width: 95%;
 		margin: 0 auto;
+		padding-left: 5%;
 	}
 
 	.main-nav li {
