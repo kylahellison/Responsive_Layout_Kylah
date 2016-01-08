@@ -37,6 +37,11 @@ h3 {
 	text-transform: uppercase;
 }
 
+.name {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
 p,
 a {
 	font-family: 'Roboto Condensed', sans-serif;
@@ -236,6 +241,14 @@ a:hover {
 
 @media (min-width: 768px) {
 
+	.main-header {
+		padding-top: 10px;
+	}
+
+	.name {
+		padding-top: 10px;
+		padding-bottom: 10px;
+	}
 
 	.container {
 		max-width: 95%;
